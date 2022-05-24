@@ -1,8 +1,4 @@
 /*------------------------------------------------------
-My name: Jordan BEARD
-My student number:5981219
-My course code: CSIT121
-My email address:jmb086@uowmail.edu.au
 Assignment number: 3
 -------------------------------------------------------*/
 
